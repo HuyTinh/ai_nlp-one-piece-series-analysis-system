@@ -1,2 +1,11 @@
-venv
-data
+# Bytecode files
+*.pyc
+*.pyo
+*.pyd
+*/__pycache__/
+
+# Virtual environment directories
+venv/
+
+
+data/
