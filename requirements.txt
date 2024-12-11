@@ -3,3 +3,6 @@ beautifulsoup4
 transformers
 huggingface_hub
 nltk
+gradio
+matplotlib
+seaborn
