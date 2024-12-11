@@ -6,3 +6,5 @@ nltk
 gradio
 matplotlib
 seaborn
+numpy
+pandas
